@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE logperhotelan SYSTEM "logperhotelan.dtd">
+<logperhotelan>
+	<pegawai>
+		<nip>2254001</nip>
+		<nama>Kirana Puspa</nama>
+		<ttl>Bandung, 19 Juli 1993</ttl>
+		<jk>P</jk>
+		<alamat>
+			<kelurahan>Sarijadi</kelurahan>
+			<kota>Bandung</kota>
+			<kodepos>40151</kodepos>
+		</alamat>
+		<agama>Islam</agama>
+		<statuskawin>Single</statuskawin>
+		<kewarganegaraan>WNI</kewarganegaraan>
+		<gaji>8.000.0000</gaji>
+		<statuspegawai>Manager</statuspegawai>
+	</pegawai>
+	<pegawai>
+		<nip>2254005</nip>
+		<nama>Githadana Ayu</nama>
+		<ttl>Surabaya, 23 Desember 1991</ttl>
+		<jk>P</jk>
+		<alamat>
+			<kelurahan>Sukasari</kelurahan>
+			<kota>Bandung</kota>
+			<kodepos>40151</kodepos>
+		</alamat>
+		<agama>Islam</agama>
+		<statuskawin>Menikah</statuskawin>
+		<kewarganegaraan>WNI</kewarganegaraan>
+		<gaji>7.250.000</gaji>
+		<statuspegawai>Assistant Executive</statuspegawai>
+	</pegawai>
+	<pegawai>
+		<nip>2254011</nip>
+		<nama>Maulyanda</nama>
+		<ttl>Aceh, 08 Agustus 1989</ttl>
+		<jk>L</jk>
+		<alamat>
+			<kelurahan>Sukajadi</kelurahan>
+			<kota>Bandung</kota>
+			<kodepos>40151</kodepos>
+		</alamat>
+		<agama>Islam</agama>
+		<statuskawin>Single</statuskawin>
+		<kewarganegaraan>WNI</kewarganegaraan>
+		<gaji>5.000.000</gaji>
+		<statuspegawai>Supervisor</statuspegawai>
+	</pegawai>
+	<pegawai>
+		<nip>2254013</nip>
+		<nama>Ilga Anne</nama>
+		<ttl>Bekasi, 29 Juni 1988</ttl>
+		<jk>P</jk>
+		<alamat>
+			<kelurahan>Sarijadi</kelurahan>
+			<kota>Bandung</kota>
+			<kodepos>40151</kodepos>
+		</alamat>
+		<agama>Kristen</agama>
+		<statuskawin>Menikah</statuskawin>
+		<kewarganegaraan>WNI</kewarganegaraan>
+		<gaji>4.500.000</gaji>
+		<statuspegawai>Receptionist</statuspegawai>
+	</pegawai>
+	<pegawai>
+		<nip>2254021</nip>
+		<nama>Simon Manangi</nama>
+		<ttl>Cirebon, 06 September 1988</ttl>
+		<jk>L</jk>
+		<alamat>
+			<kelurahan>Cibogo</kelurahan>
+			<kota>Bandung</kota>
+			<kodepos>40151</kodepos>
+		</alamat>
+		<agama>Kristen</agama>
+		<statuskawin>Single</statuskawin>
+		<kewarganegaraan>WNI</kewarganegaraan>
+		<gaji>6.000.000</gaji>
+		<statuspegawai>Accounting</statuspegawai>
+	</pegawai>
+	<pegawai>
+		<nip>2254033</nip>
+		<nama>Shinta Amelia</nama>
+		<ttl>Padang, 23 Maret 1987</ttl>
+		<jk>P</jk>
+		<alamat>
+			<kelurahan>Ciwaruga</kelurahan>
+			<kota>Bandung</kota>
+			<kodepos>40151</kodepos>
+		</alamat>
+		<agama>Islam</agama>
+		<statuskawin>Single</statuskawin>
+		<kewarganegaraan>WNI</kewarganegaraan>
+		<gaji>4.000.000</gaji>
+		<statuspegawai>House Keeper</statuspegawai>
+	</pegawai>
+</logperhotelan>
