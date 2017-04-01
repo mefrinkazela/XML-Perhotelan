@@ -1,0 +1,62 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT logperhotelan (pegawai)+>
+<!ATTLIST logperhotelan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT pegawai (nip,nama,ttl,jk,alamat,agama,statuskawin,kewarganegaraan,
+                   gaji,statuspegawai)>
+<!ATTLIST pegawai
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nip (#PCDATA)>
+<!ATTLIST nip
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nama (#PCDATA)>
+<!ATTLIST nama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT ttl (#PCDATA)>
+<!ATTLIST ttl
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jk (#PCDATA)>
+<!ATTLIST jk
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT alamat (kelurahan,kota,kodepos)>
+<!ATTLIST alamat
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT agama (#PCDATA)>
+<!ATTLIST agama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT statuskawin (#PCDATA)>
+<!ATTLIST statuskawin
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kewarganegaraan (#PCDATA)>
+<!ATTLIST kewarganegaraan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT gaji (#PCDATA)>
+<!ATTLIST gaji
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT statuspegawai (#PCDATA)>
+<!ATTLIST statuspegawai
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kelurahan (#PCDATA)>
+<!ATTLIST kelurahan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kota (#PCDATA)>
+<!ATTLIST kota
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT kodepos (#PCDATA)>
+<!ATTLIST kodepos
+    xmlns CDATA #FIXED ''>
